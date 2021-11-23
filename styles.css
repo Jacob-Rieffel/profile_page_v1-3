@@ -107,6 +107,9 @@ font-size: 1.25rem;
 .card:hover {
   border-color: #ff99ff;
 }
+li {
+  margin-top: 1.5rem;
+}
 ul.skills {
   padding: 0;
   text-align: center;
